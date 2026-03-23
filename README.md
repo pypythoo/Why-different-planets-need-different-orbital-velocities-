@@ -1,2 +1,6 @@
 # planetary-orbital-velocity
-my 3rd task for today. One questions which revolves around is why planets near the sun orbits faster than rest even whit different mass. this is my research on the topic 
+This project explores why planets closer to the Sun move faster in their orbits compared to planets farther away.
+
+It is based on fundamental concepts of orbital mechanics, gravitational force, and Kepler’s laws of planetary motion.
+
+The objective of this mini research project is to understand how orbital velocity depends on distance from the Sun and gravitational influence.
